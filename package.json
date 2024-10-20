@@ -1,0 +1,13 @@
+{
+  "name": "authentication_service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc ",
+    "start": "node ./dist/app.js",
+    "dev": "ts-node-dev ./src/app.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
